@@ -1,34 +1,46 @@
+## 📋 Alulist
 
-![Descricao da sua imagem](https://imgur.com/C8TfWXc.png)
+O **Alulist** é uma página dinâmica de **lista de compras**, desenvolvida para praticar **JavaScript** junto com HTML e CSS. O projeto permite **adicionar produtos, editar, remover e marcar itens como comprados**, oferecendo uma experiência prática no desenvolvimento de páginas interativas.
 
-# Titulo do projeto
+![Static Badge](https://img.shields.io/badge/Conclu%C3%ADdo-label?style=for-the-badge&label=Status) ![Static Badge](https://img.shields.io/badge/Alura-label?style=for-the-badge&label=Curso&color=%23000080)
 
-Aplicação web de lista de compras para o curso de construção de páginas dinâmicas com JavaScript.
+<hr>
 
-## 🔨 Funcionalidades do projeto
+## 🚀 Sobre o Projeto
 
-A aplicação permite inserir itens em uma lista de forma dinâmica, permitindo a exclusão e edição dos mesmos. Os itens terão o nome e também a data e horário que foram criados. Também é possível selecionar um checkbox para informar que o item foi comprado.
+Este projeto foi desenvolvido durante o curso da Alura:
 
-![Inserção no campo de digitação do valor ração de gato, após, é clicado no botão de edição, onde é aberto um popup para digitar o novo do nome item, que foi digitado ração de cachorro. Em seguida, é clicado no botão de exclusão, e o item é excluído.](https://imgur.com/isPj7Xf.gif)
+* "JavaScript: construindo páginas dinâmicas"
 
-## ✔️ Técnicas e tecnologias utilizadas
+O **Alulist** tem como objetivo proporcionar a prática de **integração entre HTML, CSS e JavaScript**, construindo elementos de forma dinâmica, reagindo a eventos do usuário e organizando funcionalidades em diferentes arquivos JavaScript. A aplicação também foca na **usabilidade**, permitindo que os usuários gerenciem facilmente suas listas de compras.
 
-As técnicas e tecnologias utilizadas pra isso são:
+## 📚 Objetivos do Curso
 
-- `HTML`: criação dos elementos da tela;
-- `CSS`: estilização da aplicação;
-- `JavaScript`: construção de elementos dinâmicos através da manipulação do DOM.
+* Praticar conhecimentos de **HTML e CSS**;
+* Aprender a **integrar o HTML com arquivos JavaScript**;
+* Implementar diversos tipos de **funções** com JavaScript;
+* Construir elementos de forma **dinâmica**;
+* Detectar e responder **eventos do usuário** na tela da aplicação;
+* Utilizar **seletores** para encontrar elementos dentro da aplicação de acordo com seus identificadores;
+* Separar as **funções JavaScript em arquivos diferentes**.
 
-## 📁 Acesso ao projeto
+## 🛠️ Tecnologias Utilizadas
 
-Você pode [acessar o código fonte do projeto inicial](https://github.com/alura-cursos/3801-javascript-para-web/tree/projeto-base) ou [baixá-lo](https://github.com/alura-cursos/3801-javascript-para-web/archive/refs/heads/projeto-base.zip).
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="80" height="80"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="80" height="80"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80" height="80"/>
 
-## 🛠️ Abrir e rodar o projeto
+🖼️ Visualização do Projeto
+## 🖼️ Visualização do Projeto
 
-Após baixar o projeto, você pode abrir com o Visual Studio Code. Para isso, no menu superior, clique em:
+Uma prévia das principais funcionalidades da **Alulist**:
 
-- **File** > **Open Folder** (ou alguma opção similar)
-- Procure o local onde o projeto está e o selecione (Caso o projeto seja baixado via zip, é necessário extraí-lo antes de procurá-lo)
-- Por fim clique em OK
+**🌐 Acesse o Projeto Online**
 
-Ao finalizar esses passos, você pode executar a aplicação com a extensão Live Server 🏆 
+O projeto está disponível para visualização na **Vercel**. Clique no link abaixo para acessar:
+
+<a href="https://alulist.vercel.app/" target="_blank">![Static Badge](https://img.shields.io/badge/Vercel-project?style=for-the-badge&color=A91079)</a>
+
+**📨 Página da Lista de Compras**
+
+Seção interativa com campos para inserir produtos, botões de ação para editar e remover, além de funcionalidades para marcar itens como comprados.
+
+<img src="./img/alulist-home.png" alt="Página da lista de compras" width="600"/>
