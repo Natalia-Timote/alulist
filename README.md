@@ -1,6 +1,6 @@
 ## 📋 Alulist
 
-O **Alulist** é uma página dinâmica de **lista de compras**, desenvolvida para praticar **JavaScript** junto com HTML e CSS. O projeto permite **adicionar produtos, editar, remover e marcar itens como comprados**, oferecendo uma experiência prática no desenvolvimento de páginas interativas.
+A **Alulist** é uma página dinâmica de **lista de compras**, desenvolvida para praticar **JavaScript** junto com HTML e CSS. O projeto permite **adicionar produtos, editar, remover e marcar itens como comprados**, oferecendo uma experiência prática no desenvolvimento de páginas interativas.
 
 ![Static Badge](https://img.shields.io/badge/Conclu%C3%ADdo-label?style=for-the-badge&label=Status) ![Static Badge](https://img.shields.io/badge/Alura-label?style=for-the-badge&label=Curso&color=%23000080)
 
@@ -12,7 +12,7 @@ Este projeto foi desenvolvido durante o curso da Alura:
 
 * "JavaScript: construindo páginas dinâmicas"
 
-O **Alulist** tem como objetivo proporcionar a prática de **integração entre HTML, CSS e JavaScript**, construindo elementos de forma dinâmica, reagindo a eventos do usuário e organizando funcionalidades em diferentes arquivos JavaScript. A aplicação também foca na **usabilidade**, permitindo que os usuários gerenciem facilmente suas listas de compras.
+A **Alulist** tem como objetivo proporcionar a prática de **integração entre HTML, CSS e JavaScript**, construindo elementos de forma dinâmica, reagindo a eventos do usuário e organizando funcionalidades em diferentes arquivos JavaScript. A aplicação também foca na **usabilidade**, permitindo que os usuários gerenciem facilmente suas listas de compras.
 
 ## 📚 Objetivos do Curso
 
