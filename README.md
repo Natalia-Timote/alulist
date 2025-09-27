@@ -28,7 +28,6 @@ A **Alulist** tem como objetivo proporcionar a prática de **integração entre 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="80" height="80"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="80" height="80"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80" height="80"/>
 
-🖼️ Visualização do Projeto
 ## 🖼️ Visualização do Projeto
 
 Uma prévia das principais funcionalidades da **Alulist**:
